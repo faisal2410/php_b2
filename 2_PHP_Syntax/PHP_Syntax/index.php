@@ -11,5 +11,7 @@
     <?php
     echo '<p>This is a paragraph</p>';
     ?>
+    <br/>
+    <?php echo "<h1>Faisal ahmed</h1>";?>
 </body>
 </html>
