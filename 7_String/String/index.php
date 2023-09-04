@@ -6,19 +6,26 @@
 //$str = "My country name is \"Bangladesh\"";
 // $str = 'My country name is "Bangladesh"';
 // echo $str;
+
+echo "Bangladesh\n";
+echo "India";
+
+echo "This is the first line.\nThis is the second line.";
+
 // function myCountry($city)
 // {
 //     echo 'Bangladesh is a beautiful country and city is: '.$city;
 //     echo '<br>';
 // }
-// myCountry("Khulna");
+// myCountry("Sylhet");
 // myCountry("Dhaka");
 // myCountry("Barisal");
+
 // $len = strlen("Bangladesh is a nice country");
 // echo $len;
-//echo strtoupper("My name is Arefin");
-//echo strtolower("My name is Arefin");
-//echo ucwords("My name is Arefin");
+//echo strtoupper("My name is Faisal ahmed");
+//echo strtolower("My name is Faisal ahmed");
+//echo ucwords("My name is Faisal ahmed");
 // $str1 = trim("Bangladesh ");
 // $str2 = trim(" USA");
 // echo $str1.$str2;
@@ -43,8 +50,8 @@
 // $str = "Bangladesh is a nice country";
 // echo count_chars($str,3);
 
-// $name = 'Morshedul Arefin';
-// $age = 30;
+// $name = 'Faisal ahmed';
+// $age = 49;
 // echo sprintf("This user's name is: %s and his age is %d", $name, $age);
 
 // $str = 'Bangladesh ';
